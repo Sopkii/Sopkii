@@ -72,11 +72,6 @@ ask_me_about:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sopkii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sopkii&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sopkii&theme=tokyonight&hide_border=true" width="90%"/>
 
 <br/>
