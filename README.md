@@ -72,7 +72,7 @@ ask_me_about:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sopkii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sopkii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sopkii&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
 
 <br/>
@@ -98,7 +98,7 @@ Open to full-stack roles, interesting architecture problems, and Hyprland config
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sopkii&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Sopkii.Sopkii&left_color=2c5364&right_color=58A6FF&left_text=PROFILE%20VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
