@@ -1,88 +1,105 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=220&section=header&text=Hi%20there,%20I'm%20Mu'taz%20👋&fontSize=45&animation=fadeIn&theme=tokyonight" width="100%" />
-</p>
+<div align="center">
 
-### 🚀 Computer Engineer & Full-Stack Web Developer
-Building high-performance web applications and intelligent backend systems from Amman, Jordan.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Mu'taz%20Al-Sopkii&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="left">
-  <a href="mailto:moatazmoneer21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-moatazmoneer21@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <img src="https://img.shields.io/badge/Degree-B.S.%20Computer%20Engineering-darkgreen?style=for-the-badge&logo=education&logoColor=white" alt="Education">
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I am a passionate Full-Stack Developer and recent Computer Engineering graduate from the University of Jordan. I love building robust, scalable web architectures and exploring the intersection of AI and software development. When I'm not in the browser ecosystem, you'll find me customizing my Arch Linux environment or optimizing hardware performance.
-
-- 🏆 **Graduation Project:** Co-developed **Rankr**, an intelligent, AI-powered recruitment system utilizing advanced RAG-based search mechanisms for talent retrieval.
-- 💻 **OS Ecosystem:** Running a highly tuned, terminal-centric **CachyOS + Hyprland** environment.
-- 🌱 **Currently Diving Into:** Advanced Next.js architectures, database indexing optimization, and RAG pipelines.
-- 💬 **Let's Talk About:** The JavaScript/TypeScript ecosystem, React/Next.js performance, Linux kernels, and PC hardware.
-
----
-
-## 🛠️ Technical Toolbox
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      🚀 <b>Frontend</b>
-      <img src="https://images.squarespace-cdn.com/content/v1/58dce4dfa5790a3dd87af851/1491503463872-HQC9G0K9A6V09S906OL5/gradient-line.png" width="100%"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"><br/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-    </td>
-    <td align="center" width="33%">
-      ⚙️ <b>Backend & DBs</b>
-      <img src="https://images.squarespace-cdn.com/content/v1/58dce4dfa5790a3dd87af851/1491503463872-HQC9G0K9A6V09S906OL5/gradient-line.png" width="100%"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"><br/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"><br/>
-      <img src="https://img.shields.io/badge/Prisma_7-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    </td>
-    <td align="center" width="33%">
-      🐧 <b>Environment & Tools</b>
-      <img src="https://images.squarespace-cdn.com/content/v1/58dce4dfa5790a3dd87af851/1491503463872-HQC9G0K9A6V09S906OL5/gradient-line.png" width="100%"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"><br/>
-      <img src="https://img.shields.io/badge/CachyOS_/_Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch"><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"><br/>
-      <img src="https://img.shields.io/badge/Neovim-57416B?style=flat-square&logo=neovim&logoColor=white" alt="Neovim">
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 Git Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sopkii&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sopkii's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sopkii&layout=compact&theme=tokyonight&hide_border=true" alt="Sopkii's Top Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sopkii&theme=tokyonight&hide_border=true" alt="Sopkii's GitHub Streak" width="97%"/>
-</p>
-
----
-
-## 🤝 Connect & Collaborate
-
-If you want to discuss full-stack opportunities, engineering architecture, or how to rice your Linux window manager, feel free to drop a line!
-
-- 📩 **Email:** [moatazmoneer21@gmail.com](mailto:moatazmoneer21@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/your-linkedin-username](https://linkedin.com/in/your-linkedin-username) <!-- Replace with your LinkedIn URL -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+%F0%9F%9A%80;RAG+%2B+AI-powered+systems+%F0%9F%A4%96;Linux+%2F+Hyprland+ricer+%F0%9F%90%A7;Always+shipping+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Sopkii/count.svg" alt="Visitor Count" />
-</p>
+[![Email](https://img.shields.io/badge/-moatazmoneer21@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moatazmoneer21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/-Amman%2C%20Jordan-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+
+</div>
+
+<br/>
+
+## 👋 About Me
+
+I'm a **Computer Engineering graduate** from the University of Jordan and a Full-Stack Developer who enjoys building fast, well-architected products — and pushing them just a little further than they need to go.
+
+```yaml
+name: Mu'taz Al-Sopkii
+role: Full-Stack Developer / Computer Engineer
+based_in: Amman, Jordan
+current_focus:
+  - Next.js architecture & performance
+  - Database indexing & optimization
+  - RAG pipelines & AI-powered search
+currently_running: CachyOS + Hyprland (rice never finished, only paused)
+ask_me_about:
+  - JavaScript / TypeScript ecosystem
+  - React & Next.js performance
+  - Linux internals & window manager configs
+  - PC hardware & benchmarking
+```
+
+🏆 **Flagship project:** [Rankr](#) — an AI-powered recruitment platform using RAG-based semantic search to match candidates to roles far more intelligently than keyword matching ever could.
+
+<br/>
+
+## 🧰 Tech Stack
+
+<table align="center">
+<tr>
+<td valign="top" width="33%">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind" /><br/><br/>
+
+</td>
+<td valign="top" width="33%">
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,redis" /><br/><br/>
+
+</td>
+<td valign="top" width="33%">
+
+**Tools & OS**
+
+<img src="https://skillicons.dev/icons?i=linux,arch,git,github,neovim,docker" /><br/><br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sopkii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sopkii&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sopkii&theme=tokyonight&hide_border=true" width="90%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sopkii&theme=tokyo-night&hide_border=true" width="90%"/>
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+Open to full-stack roles, interesting architecture problems, and Hyprland config debates.
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moatazmoneer21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sopkii&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
