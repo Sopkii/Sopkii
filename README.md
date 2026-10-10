@@ -19,7 +19,7 @@
 I'm a **Computer Engineering graduate** from the University of Jordan and a Full-Stack Developer who enjoys building fast, well-architected products — and pushing them just a little further than they need to go.
 
 ```yaml
-name: Mu'taz Al-Sopkii
+name: Mu'taz Al-Silawi
 role: Full-Stack Developer / Computer Engineer
 based_in: Amman, Jordan
 current_focus:
